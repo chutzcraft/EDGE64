@@ -1,5 +1,5 @@
 ![Image](http://i.imgur.com/Zk219sR.png) <br>
-<img src="http://i.imgur.com/EOgSf2G.png" width="150" height="150"><img src="https://i.imgur.com/jCA3xqg.png" width="150" height="150"><img src="https://i.imgur.com/emckr1K.png" width="150" height="150"><img src="https://i.imgur.com/KRAckAo.png" width="150" height="150"> <br>
+<a href="http://i.imgur.com/EOgSf2G.png"><img src="http://i.imgur.com/EOgSf2G.png" width="150" height="150"></a><a href="https://i.imgur.com/jCA3xqg.png"><img src="https://i.imgur.com/jCA3xqg.png" width="150" height="150"></a><a href="https://i.imgur.com/emckr1K.png"><img src="https://i.imgur.com/emckr1K.png" width="150" height="150"></a><a href="https://i.imgur.com/KRAckAo.png"><img src="https://i.imgur.com/KRAckAo.png" width="150" height="150"></a> <br>
 (Click screenshots to view)
 
 # Welcome to 3DGE 64 #
