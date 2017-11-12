@@ -1,5 +1,8 @@
-![Image](http://i.imgur.com/Zk219sR.png)
-# Welcome to 3DGE 64
+![Image](http://i.imgur.com/Zk219sR.png) <br>
+<img src="http://i.imgur.com/EOgSf2G.png" width="150" height="150"><img src="https://i.imgur.com/jCA3xqg.png" width="150" height="150"><img src="https://i.imgur.com/emckr1K.png" width="150" height="150"><img src="https://i.imgur.com/KRAckAo.png" width="150" height="150"> <br>
+(Click screenshots to view)
+
+# Welcome to 3DGE 64 #
 
 **3DGE 64** is a _Doom 2 modification for the EDGE source port._ It is a project in the style of Doom 64, however it is not created as a total conversion of Doom 64. _**For more "faithful" renditions of Doom 64, please check out Doom 64: Absolution for the Doomsday Engine, Doom 64: Retribution for GZDOOM, and Brutal Doom 64 for the GZDOOM engine.**_ This project will come packaged with user-created levels tuned to challenge any demon slayer. 
 ## Features
