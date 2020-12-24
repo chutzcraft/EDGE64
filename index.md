@@ -14,14 +14,13 @@
 >- _Special Effects for fireballs, explosions, environments, and enemies_
 >- _Several new maps custom-created for 3DGE and the modification_
 >- _New "Skirmish" game mode_
->- _Splitscreen Support_
 >- _Boss encounters and secrets galore_
 
 ### Milestone Completion List ###
 - [x] Original Doom 64 Weapons
 - [x] Original Doom 64 Monsters
 - [x] Decorations & Scenery
-- [ ] New Levels and Maps (40%)
+- [ ] New Levels and Maps (80%)
 - [ ] Skirmish Mode
 - [ ] Bug Fixing
 
