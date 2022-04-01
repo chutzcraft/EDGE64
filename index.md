@@ -20,9 +20,9 @@
 - [x] Original Doom 64 Weapons
 - [x] Original Doom 64 Monsters
 - [x] Decorations & Scenery
-- [ ] New Levels and Maps (80%)
-- [ ] Skirmish Mode
-- [ ] Bug Fixing
+- [x] New Levels and Maps (100%)
+- [x] Skirmish Mode
+- [ ] Bug Fixing 10%
 
 ### Support or Contact
 
