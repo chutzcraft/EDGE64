@@ -1,6 +1,5 @@
 <center><img src="https://imgur.com/aIOJGKP.png"></center>  
-<marquee>
-<img src="https://user-images.githubusercontent.com/33589559/200206357-6b91cb6b-85c5-4a5c-b802-9a73a6d4e275.jpg">
+![shot25](https://user-images.githubusercontent.com/33589559/200206357-6b91cb6b-85c5-4a5c-b802-9a73a6d4e275.jpg)
 ![shot29](https://user-images.githubusercontent.com/33589559/200206365-79474dbe-3cfa-4c6f-b718-5566598aa89f.jpg)
 ![shot35](https://user-images.githubusercontent.com/33589559/200206376-e6603597-efd7-474d-8212-fab2179cc26e.jpg)
 ![shot41](https://user-images.githubusercontent.com/33589559/200206391-77b4e562-afba-445b-8101-cb1745bc3f45.jpg)
@@ -9,7 +8,6 @@
 ![shot45](https://user-images.githubusercontent.com/33589559/200206419-ae55cb43-9a69-4080-8e02-1a3f32a34314.jpg)
 ![shot47](https://user-images.githubusercontent.com/33589559/200206434-290fae3a-38b7-4ccc-9ae9-33416f20e94f.jpg)
 ![shot40](https://user-images.githubusercontent.com/33589559/200206478-fa912bee-293c-4719-a305-3d29dd87b7f6.jpg)
- </marquee>
 
 <center> # Welcome to 3DGE 64 # </center>
 <center><img src="http://i.imgur.com/FThCp1a.gif">
