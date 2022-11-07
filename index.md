@@ -1,17 +1,17 @@
 <center><img src="https://imgur.com/aIOJGKP.png"></center>  
-![shot25](https://user-images.githubusercontent.com/33589559/200206357-6b91cb6b-85c5-4a5c-b802-9a73a6d4e275.jpg)
-![shot29](https://user-images.githubusercontent.com/33589559/200206365-79474dbe-3cfa-4c6f-b718-5566598aa89f.jpg)
-![shot35](https://user-images.githubusercontent.com/33589559/200206376-e6603597-efd7-474d-8212-fab2179cc26e.jpg)
-![shot41](https://user-images.githubusercontent.com/33589559/200206391-77b4e562-afba-445b-8101-cb1745bc3f45.jpg)
-![shot46](https://user-images.githubusercontent.com/33589559/200206400-75eeed40-90cd-4f88-85b0-308b2b75c703.jpg)
-![shot43](https://user-images.githubusercontent.com/33589559/200206406-7cf0e6b8-41fc-4b72-93c7-591c66b6db96.jpg)
-![shot45](https://user-images.githubusercontent.com/33589559/200206419-ae55cb43-9a69-4080-8e02-1a3f32a34314.jpg)
-![shot47](https://user-images.githubusercontent.com/33589559/200206434-290fae3a-38b7-4ccc-9ae9-33416f20e94f.jpg)
-![shot40](https://user-images.githubusercontent.com/33589559/200206478-fa912bee-293c-4719-a305-3d29dd87b7f6.jpg)
+<marquee><img src="https://user-images.githubusercontent.com/33589559/200206357-6b91cb6b-85c5-4a5c-b802-9a73a6d4e275.jpg">
+<img src="https://user-images.githubusercontent.com/33589559/200206365-79474dbe-3cfa-4c6f-b718-5566598aa89f.jpg">
+<img src="https://user-images.githubusercontent.com/33589559/200206376-e6603597-efd7-474d-8212-fab2179cc26e.jpg">
+<img src="https://user-images.githubusercontent.com/33589559/200206391-77b4e562-afba-445b-8101-cb1745bc3f45.jpg">
+<img src="https://user-images.githubusercontent.com/33589559/200206400-75eeed40-90cd-4f88-85b0-308b2b75c703.jpg">
+<img src="https://user-images.githubusercontent.com/33589559/200206406-7cf0e6b8-41fc-4b72-93c7-591c66b6db96.jpg">
+<img src="https://user-images.githubusercontent.com/33589559/200206419-ae55cb43-9a69-4080-8e02-1a3f32a34314.jpg">
+<img src="https://user-images.githubusercontent.com/33589559/200206434-290fae3a-38b7-4ccc-9ae9-33416f20e94f.jpg">
+<img src="https://user-images.githubusercontent.com/33589559/200206478-fa912bee-293c-4719-a305-3d29dd87b7f6.jpg"></marquee>
 
 <center> # Welcome to 3DGE 64 # </center>
 <center><img src="http://i.imgur.com/FThCp1a.gif">
-  <iframe width="878" height="426" src="https://www.youtube.com/embed/R2t3vex1N9E" title="New EDGE64 Titlescreen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="426" src="https://www.youtube.com/embed/R2t3vex1N9E" title="New EDGE64 Titlescreen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
   <font color="red">There is an update available for EDGE64.</font> You can participate in this flight test program to make the mod become improved over time, get to play it for yourself and try out the levels in their entirety. _This requires an EDGE source port to run,_ so remember that it will not run on an actual Nintendo 64 or any other source port. <br>
   >- EDGE64 Beta 2 download file:<br>
   >- EDGE64 Beta 1.5 download file:<br>
