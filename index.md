@@ -1,5 +1,5 @@
 <center><img src="https://imgur.com/aIOJGKP.png"> <br>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/W4ZeHte"  ><a href="//imgur.com/a/W4ZeHte"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/W4ZeHte"  ><a href="//imgur.com/a/W4ZeHte"></a></blockquote>
 
 
   
