@@ -26,3 +26,6 @@ this expansion alone or with a friend in splitscreen mode!_
 **Which Sourceport should I use to play EDGE64?** EDGE64 works with both the latest 2018 EDGE2 repository fork found here https://sourceforge.net/projects/edge2/files/latest/download. You can also use EDGE Classic, a Legacy version of the original EDGE,
 which is suited to work best with low-end processors. This could help run other mods very well on your computer. Run these by your
 specifications for a favorable experience.
+
+**How to upgrade weapons?**
+_In order to upgrade your weapons, you must previously own an existing version of the original. Survivability is key to maximizing the efficiency of your weapons. You can find the upgraded versions dropped on initial weapons placed throughout the map, or an enemy of that respective upgrade will drop it for you._
