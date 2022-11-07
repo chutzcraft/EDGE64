@@ -10,9 +10,14 @@
 ![shot47](https://user-images.githubusercontent.com/33589559/200206434-290fae3a-38b7-4ccc-9ae9-33416f20e94f.jpg)
 ![shot40](https://user-images.githubusercontent.com/33589559/200206478-fa912bee-293c-4719-a305-3d29dd87b7f6.jpg)
   <br>
-  <center># Welcome to 3DGE 64 #</center>Mbr>
-<center> <img src="http://i.imgur.com/FThCp1a.gif"> <br></center>
-
+  <center># Welcome to 3DGE 64 #</center><br>
+<center> <img src="http://i.imgur.com/FThCp1a.gif"> <br></center><br>
+  
+  <font color="red"> There is an update available for EDGE64.</font> You can participate in this flight test program to make the mod become improved over time, get to play it for yourself and try out the levels in their entirety. _This requires an EDGE source port to run,_ so remember that it will not run on an actual Nintendo 64 or any other source port. <br>
+  >- EDGE64 Beta 2 download file:<br>
+  >- EDGE64 Beta 1.5 download file:<br>
+ <br>
+  Alterntively, you can view footage on the <a href="https://www.youtube.com/channel/UCBA3RA50y8PV0hqBJL9CR-w/videos"><i>Youtube Channel</i></a> to check out all the progress on things EDGE64 related!<br> <br>
   
 **3DGE 64** is a _Doom 2 modification for the EDGE source port._ It is a project in the style of Doom 64, however it is not created as a total conversion of Doom 64. _**For more "faithful" renditions of Doom 64, please check out Doom 64: Absolution for the Doomsday Engine, Doom 64: Retribution for GZDOOM, and Brutal Doom 64 for the GZDOOM engine.**_ This project will come packaged with user-created levels tuned to challenge any demon slayer. 
 ## Features
@@ -26,7 +31,7 @@
 >- _Boss encounters and secrets galore_
 >- _Weapon upgrades for each slot, such as increased firing rates, grenade launchers, and more!_
 >- _Pyro Demon, a Cacodemon variant that resurrects the dead, and shoots fire that can trap you!_
->- _PLasma Commando, a Chaingunner variant that shoots plasma rifle energy at you! Take him out quickly._
+>- _Plasma Commando, a Chaingunner variant that shoots plasma rifle energy at you! Take him out quickly._
 
 ### Milestone Completion List ###
 - [x] Original Doom 64 Weapons
