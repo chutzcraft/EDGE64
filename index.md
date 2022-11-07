@@ -1,6 +1,8 @@
-![Image](http://i.imgur.com/Zk219sR.png) <br>
-<a href="http://i.imgur.com/EOgSf2G.png"><img src="http://i.imgur.com/EOgSf2G.png" width="150" height="150"></a><a href="https://i.imgur.com/jCA3xqg.png"><img src="https://i.imgur.com/jCA3xqg.png" width="150" height="150"></a><a href="https://i.imgur.com/emckr1K.png"><img src="https://i.imgur.com/emckr1K.png" width="150" height="150"></a><a href="https://i.imgur.com/KRAckAo.png"><img src="https://i.imgur.com/KRAckAo.png" width="150" height="150"></a> <br>
-(Click screenshots to view)
+<center><img src="https://imgur.com/aIOJGKP.png"> <br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/W4ZeHte"  ><a href="//imgur.com/a/W4ZeHte"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+  
 
 # Welcome to 3DGE 64 #
 <center> <img src="http://i.imgur.com/FThCp1a.gif"> <br></center>
@@ -15,6 +17,9 @@
 >- _Several new maps custom-created for 3DGE and the modification_
 >- _New "Skirmish" game mode_
 >- _Boss encounters and secrets galore_
+>- _Weapon upgrades for each slot, such as increased firing rates, grenade launchers, and more!_
+>- _Pyro Demon, a Cacodemon variant that resurrects the dead, and shoots fire that can trap you!_
+>- _PLasma Commando, a Chaingunner variant that shoots plasma rifle energy at you! Take him out quickly._
 
 ### Milestone Completion List ###
 - [x] Original Doom 64 Weapons
@@ -22,7 +27,7 @@
 - [x] Decorations & Scenery
 - [x] New Levels and Maps (100%)
 - [x] Skirmish Mode
-- [ ] Bug Fixing 10%
+- [ ] Bug Fixing 90%
 
 ### Support or Contact
 
