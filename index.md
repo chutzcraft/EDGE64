@@ -13,8 +13,8 @@
 <center><img src="http://i.imgur.com/FThCp1a.gif">
   <iframe width="800" height="426" src="https://www.youtube.com/embed/R2t3vex1N9E" title="New EDGE64 Titlescreen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
   <font color="red">There is an update available for EDGE64.</font> You can participate in this flight test program to make the mod become improved over time, get to play it for yourself and try out the levels in their entirety. <i><u>This requires an EDGE source port to run</u>,</i> so remember that it will not run on an actual Nintendo 64 or any other source port. <br><br>
-  >- EDGE64 Beta 2 download file: <a href="https://ufile.io/tuw4wxm0"><i>EDGE64 Beta 2</i></a> <small>(Available for 30 Days as of 11/7/22)</small> <br>
-  >- 3DGE Release Candidate 1.5 Build: <a href="https://devbuilds.drdteam.org/3dge/EDGE ... 31b872b.7z">Download</a> (Required)<br>
+  >- EDGE64 Beta 2 download file: <a href="https://ufile.io/qxpb08pi"><i>EDGE64 Beta 2</i></a> <small>(Available for 30 Days as of 11/7/22)</small> <br>
+  >- DO NOT USE ANY OTHER BUILDS OF 3DGE. THE ZIP FILE INCLUDES A CUSTOM VERSION. DO NOT DRAG AND DROP THE CUSTOM BUILD INTO ANOTHER BUILD. (Required)<br>
   >- EDGE64 Beta 1.5 download file:<br>
  <br>
   Alterntively, you can view footage on the <a href="https://www.youtube.com/channel/UCBA3RA50y8PV0hqBJL9CR-w/videos"><i>Youtube Channel</i></a> to check out all the progress on things EDGE64 related!<br></center>
