@@ -16,6 +16,7 @@
   >- EDGE64 Beta 2 download file: <a href="https://ufile.io/qxpb08pi"><i>EDGE64 Beta 2</i></a> <small>(Available for 30 Days as of 11/7/22)</small> <br>
   >- DO NOT USE ANY OTHER BUILDS OF 3DGE. THE ZIP FILE INCLUDES A CUSTOM VERSION. DO NOT DRAG AND DROP THE CUSTOM BUILD INTO ANOTHER BUILD. (Required)<br>
   >- EDGE64 Beta 1.5 download file:<br>
+  Visual Runtime environments for EDGE: https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads<Br>
  <br>
   Alterntively, you can view footage on the <a href="https://www.youtube.com/channel/UCBA3RA50y8PV0hqBJL9CR-w/videos"><i>Youtube Channel</i></a> to check out all the progress on things EDGE64 related!<br></center>
   
