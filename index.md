@@ -15,14 +15,14 @@
 
   <iframe width="800" height="426" src="https://www.youtube.com/embed/R2t3vex1N9E" title="New EDGE64 Titlescreen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
   <font color="red">There is an update available for EDGE64.</font> You can participate in this flight test program to make the mod become improved over time, get to play it for yourself and try out the levels in their entirety. <i><u>This requires an EDGE source port to run</u>,</i> so remember that it will not run on an actual Nintendo 64 or any other source port. <br><br>
-  <code><br>
+  <quote><br>
     -Disabled VFX for lamp flares<br>
     -Updated armor progression to Purple, Red, then Yellow<br>
     -Rolled back the Dynamo as a complementary weapon as opposed to a full upgrade. You can use both the Chainsaw & Dynamo in tandem<br>
     -Map visuals have been fixed. Sequence-related linedefs and sectors have been fixed.<br>
     -Reaper & Unmaker disabled until Beta 3.<br>
-  </code>
-  >- EDGE64 Beta 2.5 download file: <a href="https://ufile.io/qxpb08pi"><i>EDGE64 Beta 2</i></a> <small>(Available for 30 Days as of 11/16/22)</small> <br>
+  </quote>
+  >- EDGE64 Beta 2.5 download file: <a href="https://ufile.io/fko9rmrc"><i>EDGE64 Beta 2.5</i></a> <small>(Available for 30 Days as of 11/16/22)</small> <br>
   >- DO NOT USE ANY OTHER BUILDS OF 3DGE. THE ZIP FILE INCLUDES EDGE CLASSIC. DO NOT DRAG AND DROP THE CUSTOM BUILD INTO ANOTHER BUILD. (Required)<br>
   >- EDGE64 Beta 1.5 download file:<br>
   Visual Runtime environments for EDGE: https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads<Br>
