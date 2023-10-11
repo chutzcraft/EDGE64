@@ -11,25 +11,14 @@
 
 <center> # Welcome to 3DGE 64 # </center>
 <center><img src="http://i.imgur.com/FThCp1a.gif">
-  <img src="https://user-images.githubusercontent.com/33589559/202177051-7ec71121-8438-4f3e-8ac7-6a09815020af.png"><br>
+<img src="https://github.com/chutzcraft/3DGE64/assets/33589559/483bfa48-b169-4bc0-9f74-9476eabb16da.jpg">
 
-  <iframe width="800" height="426" src="https://www.youtube.com/embed/R2t3vex1N9E" title="New EDGE64 Titlescreen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-  <font color="red">There is an update available for EDGE64.</font> You can participate in this flight test program to make the mod become improved over time, get to play it for yourself and try out the levels in their entirety. <i><u>This requires an EDGE source port to run</u>,</i> so remember that it will not run on an actual Nintendo 64 or any other source port.<br>
-  
-   |-Disabled VFX for lamp flares|<br>
-   |-Updated armor progression to Purple, Red, then Yellow|<br>
-   |-Rolled back the Dynamo as a complementary weapon as opposed to a full upgrade. You can use both the Chainsaw & Dynamo in tandem|<br>
-   |-Map visuals have been fixed. Sequence-related linedefs and sectors have been fixed.|<br>
-   |-Reaper & Unmaker disabled until Beta 3.|<br>
-  
-  >- EDGE64 Beta 2.5 download file: <a href="https://ufile.io/fko9rmrc"><i>EDGE64 Beta 2.5</i></a> <small>(Available for 30 Days as of 11/16/22)</small> <br>
-  >- DO NOT USE ANY OTHER BUILDS OF 3DGE. THE ZIP FILE INCLUDES EDGE CLASSIC. DO NOT DRAG AND DROP THE CUSTOM BUILD INTO ANOTHER BUILD. (Required)<br>
-  >- EDGE64 Beta 1.5 download file:<br>
-  Visual Runtime environments for EDGE: https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads<Br>
- <br>
-  Alterntively, you can view footage on the <a href="https://www.youtube.com/channel/UCBA3RA50y8PV0hqBJL9CR-w/videos"><i>Youtube Channel</i></a> to check out all the progress on things EDGE64 related!<br></center>
+
+  View footage on the <a href="https://www.youtube.com/channel/UCBA3RA50y8PV0hqBJL9CR-w/videos"><i>Youtube Channel</i></a> to check out all the progress on things EDGE64 related!<br></center>
   
 **3DGE 64** is a _Doom 2 modification for the EDGE source port._ It is a project in the style of Doom 64, however it is not created as a total conversion of Doom 64. _**For more "faithful" renditions of Doom 64, please check out Doom 64: Absolution for the Doomsday Engine, Doom 64: Retribution for GZDOOM, and Brutal Doom 64 for the GZDOOM engine.**_ This project will come packaged with user-created levels tuned to challenge any demon slayer. 
+
+
 ## Features
 
 **3DGE 64** also comes with port-specific features & charms of its own, such as: 
@@ -42,15 +31,20 @@
 >- _Weapon upgrades for each slot, such as increased firing rates, grenade launchers, and more!_
 >- _Pyro Demon, a Cacodemon variant that resurrects the dead, and shoots fire that can trap you!_
 >- _Plasma Commando, a Chaingunner variant that shoots plasma rifle energy at you! Take him out quickly._
+>- _Wolf Soldiers, soldiers in black armed with UAC firepower. Stop these guys before they get you!_
+>- _Collect green skull drops & trade them for gear, protection & get firepower that feeds on demon's souls._
+>- _Lore is waiting to be uncovered! Scattered throughout the levels, seaarch your fallen comrades for the scoop of this story beat._
 
 ### Milestone Completion List ###
 - [x] Original Doom 64 Weapons
 - [x] Original Doom 64 Monsters
 - [x] Decorations & Scenery
 - [x] New Levels and Maps (100%)
-- [x] Skirmish Mode
-- [ ] Bug Fixing 90%
+- [x] Skirmish Mode (The Tally)
+- [x] Doom 64 Weapon Upgrades
+- [ ] Single-Player 90%
+- [ ] Bug Fixing 95%
 
 ### Support or Contact
 
-Having trouble with EDGE? Check out our [documentation](http://3dfxdev.net/edgewiki/index.php/Main_Page) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with EDGE? Check out our [documentation](https://github.com/edge-classic/EDGE-classic/wiki) or [contact support](https://github.com/contact) and we’ll help you sort it out.
