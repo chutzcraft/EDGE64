@@ -1,6 +1,6 @@
 ---
-layout: page
-title: F.A.Q.
+layout: "page"
+title: Documentation
 permalink: /faq/
 ---
 
@@ -34,49 +34,49 @@ _This cannot be said for sure. The communications tower near the monster's nest 
 
 **What makes 3DGE 64 different than any other Doom 64 mod out there?**
 
-_This mod comes with its own universe and renditions in style of Doom 64. 
-The maps are all created from scratch, and have the feel of a Doom 64 expansion. The mod also gives
+_This mod comes with its own universe and renditions in style of Doom 64._ 
+<p>The maps are all created from scratch, and have the feel of a Doom 64 expansion. The mod also gives
 players of EDGE community fun variety of flavor for them to try at their leisure. A note to a nice community of developers :)
-EDGE64 uses different selections of weapons, and includes an abridged storyline to set it apart from its contemporaries.
-In fact, some ideas from EDGE64 have inspired Brutal Doom 64, such as Lost Souls leaving fire trails._ 
+EDGE64 uses different selections of weapons, and includes an abridged storyline to set it apart from its contemporaries.</p>
+_In fact, some ideas from EDGE64 have inspired Brutal Doom 64, such as Lost Souls leaving fire trails._ 
 
 **Which Sourceport should I use to play EDGE64?** 
-_EDGE64 works with EDGE Classic, an enhanced & improved version of the original EDGE,
+_EDGE64 works with EDGE Classic, an enhanced & improved version of the original EDGE,_
 which is suited to work best with low-end processors. This could help run other mods very well on your computer. Run these by your
-specifications for a favorable experience._
+_specifications for a favorable experience._
 
 **How to upgrade weapons?**
-_Weapon-forging is a new ordinance mechanic introduced to EDGE64. Originally, you would need to have newer weapons dropped by owning
-a previous version of it. Now, through the Reaper the payer can trade a rare item drop - Green Skull - for weapons and armor._
+_Weapon-forging is a new ordinance mechanic introduced to EDGE64. Originally, you would need to have newer weapons dropped by owning_
+_a previous version of it. Now, through the Reaper the payer can trade a rare item drop - Green Skull - for weapons and armor._
 
 **How to upgrade the Unmaker?**
-_Once you acquire the Unmaker, you'll need to find the artifacts which are hidden in secret levels. Each secret level has it's own
-predisposed conditions on how to acquire the artifact. Complete them, and you'll be able to fuse the artifacts with the weapon._
+_Once you acquire the Unmaker, you'll need to find the artifacts which are hidden in secret levels. Each secret level has it's own_
+_predisposed conditions on how to acquire the artifact. Complete them, and you'll be able to fuse the artifacts with the weapon._
 
 **What is the difference between Purple, Yellow & Red Armor?**
-_The new armor system are exclusive to EDGE only. Existing since EDGE's early days, these additional tiers of armor are hard-coded
-to diversify the defensive capabilites of receiving damage. This gives us new ways to absorb damage as well. Base EDGE armor
-percentages work like this:_
+_The new armor system are exclusive to EDGE only. Existing since EDGE's early days, these additional tiers of armor are hard-coded_
+_to diversify the defensive capabilites of receiving damage. This gives us new ways to absorb damage as well. Base EDGE armor_
+_percentages work like this:_
 
-**Green Armor:** 33% DEF
+**Green Armor:**33% DEF
 **Blue Armor:** 50% DEF
 **Purple Armor:** 66% DEF
 **Yellow Armor:** 75% DEF
 **Red Armor:** 90% DEF
 
-_Worn by EOD operatives during their base missions on Mars & its moons, Major(Purple) & Super(Yellow) armors are particularly effective
-for blast-absorption and repelling debris. It takes a little bit longer to bang them up, as it would be said. Red Armor is supernatural,
-and seems to be an amalgamation of beast-like flesh and Lonsdaliete._
+_Worn by EOD operatives during their base missions on Mars & its moons,_ <font color="purple">Major(Purple)</font> & <font color="yellow">Super(Yellow)</font> _armors are particularly effective_
+_for blast-absorption and repelling debris. It takes a little bit longer to bang them up, as it would be said._ <font color="red">Red Armor</font> **is supernatural,**
+_and seems to be an amalgamation of beast-like flesh and Lonsdaliete._
 
 **What's the story?**
-_Fallen marines throughout levels can spawn lore entries which share bits and pieces of the events on Deimos leading up to our Marine's 
+_Fallen marines throughout levels can spawn lore entries which share bits and pieces of the events on Deimos leading up to our Marine's_ 
 return to the installation. After leaving Phobos, he returns back to Deimos to investigate the incident. Find these lore entries
-to get a back story on the current conflict._
+_to get a back story on the current conflict._
 
 **What is the Reaper?**
-_Inspired by DOOM 2016's multiplayer-only DLC weapon, the Reaper is a demonic weapon with an insectile appearance and powered by what
+<p><h2>Inspired by DOOM 2016's multiplayer-only DLC weapon, the Reaper</h2> is a demonic weapon with an insectile appearance and powered by what
 appears to be a Lost Soul. Instead of firing in burtsts, this version unleashes Reaper Souls that lock-on to targets, pierces through
 flesh & metal, and causes explosion-damage within an impact radius. It also has the magical properties to absorb life force, and heal
 the user. Upon using it in close quarters,it may damage anything in its range, including its user, so space must be accounted for when 
 wielding it. The Reaper has a class definition of Magick (CLASS_ATTACK=N for Necro) meaning all but few monsters are resistant to its
-power. Much thanks and credits are given to Noiser, DrPySpy, Neccronixis & Franco Tieppo for their work in Doom 4 Vanilla._
+power. Much thanks and credits are given to Noiser, DrPySpy, Neccronixis & Franco Tieppo for their work in Doom 4 Vanilla.</p>
