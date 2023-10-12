@@ -34,7 +34,9 @@
 >- _Wolf Soldiers, soldiers in black armed with UAC firepower. Stop these guys before they get you!_
 >- _Collect green skull drops & trade them for gear, protection & get firepower that feeds on demon's souls._
 >- _Lore is waiting to be uncovered! Scattered throughout the levels, seaarch your fallen comrades for the scoop of this story beat._
->- 
+>- _Controller support within the EDGE source port. Plans to test Xbox Developer Mode functionality for console feedback are to come._
+>- _Choose to use freelook, or play "vanilla" style using Autoaim and No Freelook._
+>- _Scanline texture support, to emulate retro hardware. For a somewhat primitive feel, use Low Detail, & No Smoothing with 35 FPS mode!_
 
 ### Milestone Completion List ###
 - [x] Original Doom 64 Weapons
@@ -46,6 +48,6 @@
 - [ ] Single-Player 90%
 - [ ] Bug Fixing 95%
 
-### Support or Contact
+### Support or Contact ###
 
 Having trouble with EDGE? Check out our [documentation](https://github.com/edge-classic/EDGE-classic/wiki) or [contact support](https://github.com/contact) and we’ll help you sort it out.
