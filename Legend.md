@@ -1,9 +1,3 @@
----
-layout: "page"
-title: Legend
-permalink: /legend/
----
-
 <center><img src="https://imgur.com/aIOJGKP.png"></center>  
 <quote><marquee><img src="https://user-images.githubusercontent.com/33589559/200206357-6b91cb6b-85c5-4a5c-b802-9a73a6d4e275.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206365-79474dbe-3cfa-4c6f-b718-5566598aa89f.jpg">
