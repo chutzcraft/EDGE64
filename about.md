@@ -1,7 +1,7 @@
 ![3DGE64](https://github.com/chutzcraft/EDGE64/assets/33589559/8c50ec74-448f-4df5-a458-f4592a4151c5)
 
 
-<center><img src="https://github.com/chutzcraft/EDGE64/assets/33589559/242e7cb1-eaa0-4ec9-aff5-8674eb8b5324" width=25% height=25%></center>
+<img src="https://github.com/chutzcraft/EDGE64/assets/33589559/242e7cb1-eaa0-4ec9-aff5-8674eb8b5324">
 
 
 ## EDGE64 ##
