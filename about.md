@@ -27,23 +27,9 @@ A single-level [demo](http://www.wadsinprogress.info/index.php?a=listwads&wad=17
 early that following year in March. During 2015-2016, the demo received more work behind scenes such as more
 levels, eventually being fleshed out into a full-fledged total conversion!
 `Brand new levels were created in place of older ones including geometry tweaks to the 2015 demonstration map.`
-
-
-
-
-
-<table>
-  <tr>
-    <td>
       
-<h1> <B>## F.A.Q. ##</B> </h1>
+# F.A.Q.
 
-    
-  </tr>
-
- <tr>
-   <td>
-     
 **Do you fight the Motherdemon?**
 
 >_This cannot be said for sure. The communications tower near the monster's nest went down._
@@ -107,9 +93,6 @@ flesh & metal, and causes explosion-damage within an impact radius. It also has 
 the user. Upon using it in close quarters,it may damage anything in its range, including its user, so space must be accounted for when 
 wielding it. The Reaper has a class definition of Magick (CLASS_ATTACK=N for Necro) meaning all but few monsters are resistant to its
 power. Much thanks and credits are given to `Noiser, DrPySpy, Neccronixis & Franco Tieppo` for their work in Doom 4 Vanilla.
-</td>
-</tr>
-</table>
   
 </div></div>
 </div>
