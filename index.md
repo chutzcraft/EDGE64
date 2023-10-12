@@ -9,17 +9,17 @@
 <img src="https://user-images.githubusercontent.com/33589559/200206434-290fae3a-38b7-4ccc-9ae9-33416f20e94f.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206478-fa912bee-293c-4719-a305-3d29dd87b7f6.jpg"></marquee>
 
-<center> # Welcome to 3DGE 64 # </center>
-<center><img src="http://i.imgur.com/FThCp1a.gif"><br>
-<img src="https://github.com/chutzcraft/3DGE64/assets/33589559/483bfa48-b169-4bc0-9f74-9476eabb16da"><br></center>
+<center> # Welcome to 3DGE 64 # </center></br>
+<center><img src="http://i.imgur.com/FThCp1a.gif"></center><br>
+<Center><img src="https://github.com/chutzcraft/3DGE64/assets/33589559/483bfa48-b169-4bc0-9f74-9476eabb16da"><br></center>
+<br>
 
-
- <center> View footage on the <a href="https://www.youtube.com/channel/UCBA3RA50y8PV0hqBJL9CR-w/videos"><i>Youtube Channel</i></a> to check out all the progress on things EDGE64 related!<br></center>
+ <center> View footage on the <a href="https://www.youtube.com/channel/UCBA3RA50y8PV0hqBJL9CR-w/videos"><i>Youtube Channel</i></a> to check out all the progress on things EDGE64 related!<br></center><br>
   
 **3DGE 64** is a _Doom 2 modification for the EDGE source port._ It is a project in the style of Doom 64, however it is not created as a total conversion of Doom 64. _**For more "faithful" renditions of Doom 64, please check out Doom 64: Absolution for the Doomsday Engine, Doom 64: Retribution for GZDOOM, and Brutal Doom 64 for the GZDOOM engine.**_ This project will come packaged with user-created levels tuned to challenge any demon slayer. 
 
 
-## Features
+## Features ##
 
 **3DGE 64** also comes with port-specific features & charms of its own, such as: 
 
@@ -34,6 +34,7 @@
 >- _Wolf Soldiers, soldiers in black armed with UAC firepower. Stop these guys before they get you!_
 >- _Collect green skull drops & trade them for gear, protection & get firepower that feeds on demon's souls._
 >- _Lore is waiting to be uncovered! Scattered throughout the levels, seaarch your fallen comrades for the scoop of this story beat._
+>- 
 
 ### Milestone Completion List ###
 - [x] Original Doom 64 Weapons
