@@ -3,15 +3,11 @@
 
 <img src="https://github.com/chutzcraft/EDGE64/assets/33589559/242e7cb1-eaa0-4ec9-aff5-8674eb8b5324">
 
-<table>
-  <tr>
-    <td>
-      
-[MAIN PAGE](../master/index.md) | [LEGEND](../master/legend.md) | [REPO](https://github.com/chutzcraft/EDGE64)
-</td></tr>
-    
-</table>
+---
 
+ | [MAIN PAGE](https://chutzcraft.github.io/EDGE64/) | [LEGEND](https://chutzcraft.github.io/EDGE64/legend) | [REPO](https://github.com/chutzcraft/EDGE64) | 
+ 
+---
 ## EDGE64 ##
 The Official EDGE 64 Project Portal
 
@@ -38,17 +34,17 @@ levels, eventually being fleshed out into a full-fledged total conversion!
 
 >_This mod comes with its own universe and renditions in style of Doom 64._ 
 
-<p>The maps are all created from scratch, and have the feel of a Doom 64 expansion. The mod also gives
+The maps are all created from scratch, and have the feel of a Doom 64 expansion. The mod also gives
 players of EDGE community fun variety of flavor for them to try at their leisure. A note to a nice community of developers :)
-EDGE64 uses different selections of weapons, and includes an abridged storyline to set it apart from its contemporaries.</p>
+EDGE64 uses different selections of weapons, and includes an abridged storyline to set it apart from its contemporaries.
 
 >_In fact, some ideas from EDGE64 have inspired Brutal Doom 64, such as Lost Souls leaving fire trails._ 
 
 **Which Sourceport should I use to play EDGE64?** 
 
-><p>_EDGE64 works with EDGE Classic, an enhanced & improved version of the original EDGE,_
->hich is suited to work best with low-end processors. This could help run other mods very well on your computer. Run these by your
->_specifications for a favorable experience._</p>
+>_EDGE64 works with EDGE Classic, an enhanced & improved version of the original EDGE,_
+>which is suited to work best with low-end processors. This could help run other mods very well on your computer. Run these by your
+>_specifications for a favorable experience._
 
 **How to upgrade weapons?**
 
@@ -57,14 +53,14 @@ _a previous version of it. Now, through the Reaper the payer can trade a rare it
 
 **How to upgrade the Unmaker?**
 
-><p>_Once you acquire the Unmaker, you'll need to find the artifacts which are hidden in secret levels. Each secret level has it's own_
->_predisposed conditions on how to acquire the artifact. Complete them, and you'll be able to fuse the artifacts with the weapon._</p>
+>_Once you acquire the Unmaker, you'll need to find the artifacts which are hidden in secret levels. Each secret level has it's own_
+>_predisposed conditions on how to acquire the artifact. Complete them, and you'll be able to fuse the artifacts with the weapon._
 
 **What is the difference between Purple, Yellow & Red Armor?**
 
-><p>_The new armor system are exclusive to EDGE only. Existing since EDGE's early days, these additional tiers of armor are hard-coded_
+>_The new armor system are exclusive to EDGE only. Existing since EDGE's early days, these additional tiers of armor are hard-coded_
 >_to diversify the defensive capabilites of receiving damage. This gives us new ways to absorb damage as well. Base EDGE armor_
->_percentages work like this:_</p>
+>_percentages work like this:_
 
 <table>
   <tr>
@@ -93,8 +89,3 @@ flesh & metal, and causes explosion-damage within an impact radius. It also has 
 the user. Upon using it in close quarters,it may damage anything in its range, including its user, so space must be accounted for when 
 wielding it. The Reaper has a class definition of Magick (CLASS_ATTACK=N for Necro) meaning all but few monsters are resistant to its
 power. Much thanks and credits are given to `Noiser, DrPySpy, Neccronixis & Franco Tieppo` for their work in Doom 4 Vanilla.
-  
-</div></div>
-</div>
-
-
