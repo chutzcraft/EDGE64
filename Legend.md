@@ -1,4 +1,14 @@
 <center><img src="https://imgur.com/aIOJGKP.png"></center>  
+
+<table>
+  <tr>
+    <td>
+      
+[MAIN PAGE](../master/index.md) | [ABOUT EDGE64](../master/about.md) | [REPO](https://github.com/chutzcraft/EDGE64)
+</td></tr>
+    
+</table>
+
 <quote><marquee><img src="https://user-images.githubusercontent.com/33589559/200206357-6b91cb6b-85c5-4a5c-b802-9a73a6d4e275.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206365-79474dbe-3cfa-4c6f-b718-5566598aa89f.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206376-e6603597-efd7-474d-8212-fab2179cc26e.jpg">
