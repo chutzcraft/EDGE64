@@ -1,3 +1,9 @@
+---
+layout: "page"
+title: EDGE64
+permalink: /index/
+---
+
 <center><img src="https://imgur.com/aIOJGKP.png"></center> 
 -------------
 <table>
