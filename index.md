@@ -9,13 +9,15 @@
 <img src="https://user-images.githubusercontent.com/33589559/200206434-290fae3a-38b7-4ccc-9ae9-33416f20e94f.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206478-fa912bee-293c-4719-a305-3d29dd87b7f6.jpg"></marquee>
 
+<a href="https://github.com/chutzcraft/3DGE64#readme">[**DOCUMENTATION**]</a> | <a href="https://github.com/edge-classic/EDGE-classic">[**LATEST EDGE BUILD**]</a> | <a href="https://github.com/chutzcraft/3DGE64/releases/download/beta/EDGE64_B2.zip">[**<s>EDGE64 BETA 2</s>**]</a> | <a href="https://store.steampowered.com/app/1148590/DOOM_64/">[**DOOM64 ON STEAM**]</a> | <a href="https://discord.gg/jUhEKHGWZm">[**DISCORD**]</a>
+
 <center> # Welcome to EDGE 64 # </center></br>
 <center><img src="http://i.imgur.com/FThCp1a.gif"></center><br>
 <center><img src="https://github.com/chutzcraft/3DGE64/assets/33589559/483bfa48-b169-4bc0-9f74-9476eabb16da"><br></center>
 
  <center> View footage on the <a href="https://www.youtube.com/channel/UCBA3RA50y8PV0hqBJL9CR-w/videos"><i>Youtube Channel</i></a> to check out all the progress on things EDGE64 related!<br></center><br>
   
-**EDGE 64** is a _Doom 2 modification for the EDGE source port._ It is a project in the style of Doom 64, however it is not created as a total conversion of Doom 64. _**For more "faithful" renditions of Doom 64, please check out Doom 64: Absolution for the Doomsday Engine, Doom 64: Retribution for GZDOOM, and Brutal Doom 64 for the GZDOOM engine.**_ This project will come packaged with user-created levels tuned to challenge any demon slayer. 
+**EDGE 64** is a _Doom 2 modification for the EDGE source port._ It is a project in the style of Doom 64, however it is not created as a total conversion of Doom 64. _**For more "faithful" renditions of Doom 64, please check out Doom 64: Absolution for the Doomsday Engine, Doom 64: Retribution for GZDOOM, and Brutal Doom 64 for the GZDOOM engine.**_ This project will come packaged with user-created levels tuned to challenge any demon slayer. Consider supporting the official release by Bethesda through Steam, or Microsoft Store. **IN ORDER TO RUN EDGE64 YOU MUST HAVE A DOOM2.WAD game, or you can use FREEDOOM2 which is a freeware open-source project to make playing patched and user-created content possible. You can download the project <a href="https://freedoom.github.io/download.html">here</a>. EDGE 64 is designed to run on Windows, Linux, BSD, Macintosh, Raspberry Pi & Xbox Developer Mode. It will not run with other source ports.
 
 
 ## Features ##
