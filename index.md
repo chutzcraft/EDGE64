@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: EDGE64
-permalink: /index/
+permalink: /index.html
 ---
 
 <center><img src="https://imgur.com/aIOJGKP.png"></center> 
