@@ -1,3 +1,9 @@
+---
+layout: "page"
+title: Help
+permalink: https://github.dev/chutzcraft/EDGE64/legend
+---
+
 <center><img src="https://imgur.com/aIOJGKP.png"></center>  
 
 | [<big>MAIN PAGE</big>](https://chutzcraft.github.io/EDGE64/) | [<big>ABOUT EDGE64</big>](https://chutzcraft.github.io/EDGE64/about) | [<big>REPO</big>](https://github.com/chutzcraft/EDGE64) |
