@@ -16,8 +16,7 @@
 --------
 
 
-<table><a href="https://github.com/chutzcraft/3DGE64#readme">[<b>DOCUMENTATION</b>]</a> | <a href="https://github.com/edge-classic/EDGE-classic">[<b>LATEST EDGE BUILD</b>]</a> | <a href="https://github.com/chutzcraft/3DGE64/releases/download/beta/EDGE64_B2.zip">[<s>EDGE64 BETA 2</s>]</a> | <a href="https://store.steampowered.com/app/1148590/DOOM_64/">[<b>DOOM64 ON STEAM</b>]</a> | <a href="https://discord.gg/jUhEKHGWZm">[<b>DISCORD</b>]</a>
-</table>
+<a href="https://github.com/chutzcraft/3DGE64#readme">[<b>DOCUMENTATION</b>]</a> | <a href="https://github.com/edge-classic/EDGE-classic">[<b>LATEST EDGE BUILD</b>]</a> | <a href="https://github.com/chutzcraft/3DGE64/releases/download/beta/EDGE64_B2.zip">[<s>EDGE64 BETA 2</s>]</a> | <a href="https://store.steampowered.com/app/1148590/DOOM_64/">[<b>DOOM64 ON STEAM</b>]</a> | <a href="https://discord.gg/jUhEKHGWZm">[<b>DISCORD</b>]</a>
 
 <center> <b> <h1>Welcome to EDGE 64</h1> </b></center>
 <center><img src="http://i.imgur.com/FThCp1a.gif"></center>
@@ -26,9 +25,9 @@
 
  <center> View footage on the <a href="https://www.youtube.com/channel/UCBA3RA50y8PV0hqBJL9CR-w/videos"><i>Youtube Channel</i></a> to check out all the progress on things EDGE64 related!</center><br>
 ---  
-<h2><b>EDGE 64</b> is a _Doom 2 modification megawad for the EDGE source port._ It is a project in the style of Doom 64, however it is not created as a total conversion of Doom 64.</h2>
+<h2><b>EDGE 64</b> is a Doom 2 modification megawad for the EDGE source port. It is a project in the style of Doom 64, however it is not created as a total conversion of Doom 64.</h2>
 
-<em>_**For more "faithful" renditions of Doom 64, please check out Doom 64: Absolution for the Doomsday Engine, Doom 64: Retribution for GZDOOM, and Brutal Doom 64 for the GZDOOM engine.**_ </em>
+<em>_**For more faithful renditions of Doom 64, please check out Doom 64: Absolution for the Doomsday Engine, Doom 64: Retribution for GZDOOM, and Brutal Doom 64 for the GZDOOM engine.**_ </em>
 
 This project will come packaged with user-created levels tuned to challenge any demon slayer. Consider supporting the official release by Bethesda through Steam, or Microsoft Store. **IN ORDER TO RUN EDGE64 YOU MUST HAVE A DOOM2.WAD** game, or you can use FREEDOOM2 which is a freeware open-source project to make playing patched and user-created content possible. You can download the project <a href="https://freedoom.github.io/download.html">here</a>. 
 
@@ -42,7 +41,8 @@ This project will come packaged with user-created levels tuned to challenge any 
 
 >- _Three-dimensional Geometry, such as bridges, platforms, slopes, room-over-room environments, and more_
 >- _Special Effects for fireballs, explosions, environments, and enemies_
->- _Several new maps custom-created for 3DGE and the modification_
+>- _Breakable glass, portals, & sliding doors_
+>- _Several new maps custom-created ranging in small, medium and somewhat large levels_
 >- _New "Skirmish" game mode_
 >- _Boss encounters and secrets galore_
 >- _Weapon upgrades for each slot, such as increased firing rates, grenade launchers, and more!_
@@ -50,7 +50,7 @@ This project will come packaged with user-created levels tuned to challenge any 
 >- _Plasma Commando, a Chaingunner variant that shoots plasma rifle energy at you! Take him out quickly._
 >- _Wolf Soldiers, soldiers in black armed with UAC firepower. Stop these guys before they get you!_
 >- _Collect green skull drops & trade them for gear, protection & get firepower that feeds on demon's souls._
->- _Lore is waiting to be uncovered! Scattered throughout the levels, seaarch your fallen comrades for the scoop of this story beat._
+>- _Lore is waiting to be uncovered! Scattered throughout the levels, search your fallen comrades for the scoop of this story beat._
 >- _Controller support within the EDGE source port. Plans to test Xbox Developer Mode functionality for console feedback are to come._
 >- _Choose to use freelook, or play "vanilla" style using Autoaim and No Freelook._
 >- _Scanline texture support, to emulate retro hardware. For a somewhat primitive feel, use Low Detail, & No Smoothing with 35 FPS mode!_
