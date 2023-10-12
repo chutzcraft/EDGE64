@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: Documentation
-permalink: /faq/
+permalink: /faq.html
 ---
 
 ![3DGE64](https://github.com/chutzcraft/EDGE64/assets/33589559/8c50ec74-448f-4df5-a458-f4592a4151c5)
