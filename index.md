@@ -1,6 +1,15 @@
 <center><img src="https://imgur.com/aIOJGKP.png"></center> 
 -------------
 <table>
+  <tr>
+    <td>
+      
+[ABOUT EDGE64](../master/about.md) | [LEGEND](../master/legend.md) | [REPO](https://github.com/chutzcraft/EDGE64)
+
+</td></tr>
+    
+</table>
+<table>
 <marquee><img src="https://user-images.githubusercontent.com/33589559/200206357-6b91cb6b-85c5-4a5c-b802-9a73a6d4e275.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206365-79474dbe-3cfa-4c6f-b718-5566598aa89f.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206376-e6603597-efd7-474d-8212-fab2179cc26e.jpg">
@@ -29,7 +38,7 @@
 
 <em>_**For more faithful renditions of Doom 64, please check out Doom 64: Absolution for the Doomsday Engine, Doom 64: Retribution for GZDOOM, and Brutal Doom 64 for the GZDOOM engine.**_ </em>
 
-This project will come packaged with user-created levels tuned to challenge any demon slayer. Consider supporting the official release by Bethesda through Steam, or Microsoft Store. **IN ORDER TO RUN EDGE64 YOU MUST HAVE A DOOM2.WAD** game, or you can use FREEDOOM2 which is a freeware open-source project to make playing patched and user-created content possible. You can download the project <a href="https://freedoom.github.io/download.html">here</a>. 
+`This project will come packaged with user-created levels tuned to challenge any demon slayer. Consider supporting the official release by Bethesda through Steam, or Microsoft Store.` **IN ORDER TO RUN EDGE64 YOU MUST HAVE A DOOM2.WAD** game, `or you can use FREEDOOM2 which is a freeware open-source project to make playing patched and user-created content possible. You can download the project` <a href="https://freedoom.github.io/download.html">here</a>. 
 
 <h3><em>EDGE 64 is designed to run on Windows, Linux, BSD, Macintosh, Raspberry Pi & Xbox Developer Mode. It will not run with other source ports.</em></h3>
 
