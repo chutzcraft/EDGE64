@@ -18,12 +18,15 @@
 <img src="https://user-images.githubusercontent.com/33589559/200206419-ae55cb43-9a69-4080-8e02-1a3f32a34314.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206434-290fae3a-38b7-4ccc-9ae9-33416f20e94f.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206478-fa912bee-293c-4719-a305-3d29dd87b7f6.jpg"></marquee></quote>
-<center>
-<h1>## LEGEND ##</h1>
+  
+# LEGEND
+`On Deimos, you're going to need more than the desire to survive in order to best this nightmare.`
 
-<p>On Deimos, you're going to need more than the desire to survive in order to best this nightmare. This legend should help provide some intel on
-the enemies, weapons, items and strange phenomenon you will occur while out in the field. Though this legend may be obscure, and a bit vague, it was
-procured by our best scouts in the ground squad. When you're lucky to make it back alive, you give what you can. Study up, study hard.  - Major</p>
+`This legend should help provide some intel on the enemies, weapons, items and strange phenomenon you will occur while out in the field.`
+
+`Though this legend may be obscure, and a bit vague, it was procured by our best scouts in the ground squad.`
+
+`When you're lucky to make it back alive, you give what you can. Study up, study hard.  - Major`
 
 ## WEAPONS ##
 <em>
