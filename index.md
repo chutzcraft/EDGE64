@@ -18,7 +18,7 @@
 --------
 
 
-<a href="https://github.com/chutzcraft/3DGE64#readme">[<b>DOCUMENTATION</b>]</a> | <a href="https://github.com/edge-classic/EDGE-classic">[<b>LATEST EDGE BUILD</b>]</a> | <a href="https://github.com/chutzcraft/3DGE64/releases/download/beta/EDGE64_B2.zip">[<s>EDGE64 BETA 2</s>]</a> | <a href="https://store.steampowered.com/app/1148590/DOOM_64/">[<b>DOOM64 ON STEAM</b>]</a> | <a href="https://discord.gg/jUhEKHGWZm">[<b>DISCORD</b>]</a>
+<sup><a href="https://github.com/chutzcraft/3DGE64#readme">[<b>DOCUMENTATION</b>]</a> | <a href="https://github.com/edge-classic/EDGE-classic">[<b>LATEST EDGE BUILD</b>]</a> | <a href="https://github.com/chutzcraft/3DGE64/releases/download/beta/EDGE64_B2.zip">[<s>EDGE64 BETA 2</s>]</a> | <a href="https://store.steampowered.com/app/1148590/DOOM_64/">[<b>DOOM64 ON STEAM</b>]</a> | <a href="https://discord.gg/jUhEKHGWZm">[<b>DISCORD</b>]</a></sup>
 
 <center> <b> <h1>Welcome to EDGE 64</h1> </b></center>
 <center><img src="http://i.imgur.com/FThCp1a.gif"></center>
