@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: Help
-permalink: https://github.dev/chutzcraft/EDGE64/legend
+permalink: https://chutzcraft.github.io/EDGE64/legend
 ---
 
 <center><img src="https://imgur.com/aIOJGKP.png"></center>  
