@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: Legend
-permalink: /legend.html
+permalink: /legend/
 ---
 
 <center><img src="https://imgur.com/aIOJGKP.png"></center>  
