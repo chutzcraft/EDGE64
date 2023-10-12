@@ -1,13 +1,7 @@
 <center><img src="https://imgur.com/aIOJGKP.png"></center> 
-<table>
-  <tr>
-    <td>
-      
-[ABOUT EDGE64](../master/about.md) | [LEGEND](../master/legend.md) | [REPO](https://github.com/chutzcraft/EDGE64)
 
-</td></tr>
-    
-</table>
+| [<big>ABOUT EDGE64</big>](https://chutzcraft.github.io/EDGE64/about) | [<big>LEGEND</big>](https://chutzcraft.github.io/EDGE64/legend) | [<big>REPO</big>](https://github.com/chutzcraft/EDGE64) | 
+
 <table>
 <marquee><img src="https://user-images.githubusercontent.com/33589559/200206357-6b91cb6b-85c5-4a5c-b802-9a73a6d4e275.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206365-79474dbe-3cfa-4c6f-b718-5566598aa89f.jpg">
