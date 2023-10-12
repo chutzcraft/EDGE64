@@ -1,15 +1,8 @@
 <center><img src="https://imgur.com/aIOJGKP.png"></center>  
 
-<table>
-  <tr>
-    <td>
-      
-[MAIN PAGE](../master/index.md) | [ABOUT EDGE64](../master/about.md) | [REPO](https://github.com/chutzcraft/EDGE64)
-</td></tr>
-    
-</table>
+| [<big>MAIN PAGE</big>](https://chutzcraft.github.io/EDGE64/) | [<big>ABOUT EDGE64</big>](https://chutzcraft.github.io/EDGE64/about) | [<big>REPO</big>](https://github.com/chutzcraft/EDGE64) |
 
-<quote><marquee><img src="https://user-images.githubusercontent.com/33589559/200206357-6b91cb6b-85c5-4a5c-b802-9a73a6d4e275.jpg">
+<marquee><img src="https://user-images.githubusercontent.com/33589559/200206357-6b91cb6b-85c5-4a5c-b802-9a73a6d4e275.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206365-79474dbe-3cfa-4c6f-b718-5566598aa89f.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206376-e6603597-efd7-474d-8212-fab2179cc26e.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206391-77b4e562-afba-445b-8101-cb1745bc3f45.jpg">
@@ -17,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/33589559/200206406-7cf0e6b8-41fc-4b72-93c7-591c66b6db96.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206419-ae55cb43-9a69-4080-8e02-1a3f32a34314.jpg">
 <img src="https://user-images.githubusercontent.com/33589559/200206434-290fae3a-38b7-4ccc-9ae9-33416f20e94f.jpg">
-<img src="https://user-images.githubusercontent.com/33589559/200206478-fa912bee-293c-4719-a305-3d29dd87b7f6.jpg"></marquee></quote>
+<img src="https://user-images.githubusercontent.com/33589559/200206478-fa912bee-293c-4719-a305-3d29dd87b7f6.jpg"></marquee>
   
 # LEGEND
 `On Deimos, you're going to need more than the desire to survive in order to best this nightmare.`
